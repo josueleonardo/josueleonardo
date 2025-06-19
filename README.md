@@ -69,15 +69,10 @@
 <!-- Organización -->
 <br/><br/>
 <a href="https://github.com/UpDate-SE">
-  <img src="https://img.shields.io/badge/Organization-UpDate--SE-blueviolet?style=for-the-badge&logo=github" alt="UpDate-SE Org Badge" />
+  <img src="https://img.shields.io/badge/Organization-UpDate--SE-blueviolet?style=for-the-badge&logo=github" alt="Advanced Code SE Badge" />
 </a>
 
 <br/>
-
-<!-- Tarjetas válidas de repos -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UpDate-SE&repo=eventsreserve&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UpDate-SE&repo=events
-&theme=radical" />
 
 </div>
 
