@@ -76,7 +76,8 @@
 
 <!-- Tarjetas válidas de repos -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=UpDate-SE&repo=eventsreserve&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UpDate-SE&repo=dashboard-flutter&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UpDate-SE&repo=events
+&theme=radical" />
 
 </div>
 
