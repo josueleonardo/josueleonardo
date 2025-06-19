@@ -36,4 +36,4 @@ I am a ✨Flutter Developer✨ recently graduated with ✨degrees✨ from <a hre
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisill0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josueleonardo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
