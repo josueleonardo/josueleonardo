@@ -51,9 +51,9 @@
 
 ### 📂 Featured Projects
 
-- 🔗 [EventsReserve](https://github.com/josueleonardo/eventsreserve) – Booking platform built with Flutter, Firebase & notifications.
-- 🔗 [Dashboard Analytics](https://github.com/josueleonardo/business-dashboard) – Business data visualization tool with PDF export & charts.
-- 🔗 [Health Services App](https://github.com/josueleonardo/healthconnect) – App connecting users with local health professionals.
+- 🔗 [SPORTS § NIGS](https://github.com/josueleonardo/-SPORTS-NIGS-CASO-PRACTICO) – Booking platform built with Flutter & Firebase.
+- 🔗 [Mongo Server](https://github.com/josueleonardo/tecnicaltestserver) – Server test using Node.j with Express in MongoDB.
+- 🔗 [Food Services App](https://github.com/josueleonardo/vendedores_uaslp) – App that connects users with street food vendors..
 
 ---
 
@@ -66,13 +66,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueleonardo&layout=compact&theme=radical" alt="Top Langs" />
   
 <!-- Stats de la organización -->
-<!-- Organización -->
 <br/><br/>
 <a href="https://github.com/UpDate-SE">
   <img src="https://img.shields.io/badge/Organization-UpDate--SE-blueviolet?style=for-the-badge&logo=github" alt="Advanced Code SE Badge" />
 </a>
-
-<br/>
 
 </div>
 
