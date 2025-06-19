@@ -60,8 +60,20 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<!-- Stats personales -->
   <img src="https://github-readme-stats.vercel.app/api?username=josueleonardo&show_icons=true&theme=radical&hide=prs" alt="Josue's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueleonardo&layout=compact&theme=radical" alt="Top Langs" />
+  
+<!-- Stats de la organización -->
+  <br/><br/>
+  <a href="https://github.com/UpDate-SE">
+    <img src="https://img.shields.io/badge/Organization-UpDate--SE-blueviolet?style=for-the-badge&logo=github" alt="UpDate-SE Org Badge" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UpDate-SE&repo=app-reservaciones&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UpDate-SE&repo=web-dashboard&theme=radical" />
+
 </div>
 
 ---
