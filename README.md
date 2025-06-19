@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Josue Leonardo Arredondo 👋</h1>
 
 <p align="center">
-  <strong>Flutter Developer | Product Manager | Full-Stack Enthusiast</strong><br/>
-  Graduate of <a href="https://www.uaslp.mx" target="_blank">UASLP, Mexico</a> · Based in 🇲🇽
+  <strong>Flutter Developer | Product Manager | Frontend Enthusiast</strong><br/>
+  Graduate of Ingenieria en Sistemas Inteligentes at <a href="https://www.uaslp.mx" target="_blank">UASLP, Mexico</a> · Based in 🇲🇽
 </p>
 
 <div align="center">
