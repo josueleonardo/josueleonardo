@@ -66,7 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueleonardo&layout=compact&theme=radical" alt="Top Langs" />
   
 <!-- Stats de la organización -->
-<br/><br/>
 <a href="https://github.com/UpDate-SE">
   <img src="https://img.shields.io/badge/Organization-UpDate--SE-blueviolet?style=for-the-badge&logo=github" alt="Advanced Code SE Badge" />
 </a>
