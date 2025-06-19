@@ -1,39 +1,75 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enZxc2R3MDloNGNzNWRqcmNwdnIwemJ4bHY4Zm0xdWdjMmg3d2J6YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IpeYSEZshTefe/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="280" alt="Developer at work GIF" />
 </div>
 
-<div id="badges" align="center">
-  <a href='https://www.linkedin.com/in/josue-leonardo-arredondo-juarez/'>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<h1 align="center">Hi, I'm Josue Leonardo Arredondo 👋</h1>
+
+<p align="center">
+  <strong>Flutter Developer | Product Manager | Full-Stack Enthusiast</strong><br/>
+  Graduate of <a href="https://www.uaslp.mx" target="_blank">UASLP, Mexico</a> · Based in 🇲🇽
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/josue-leonardo-arredondo-juarez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href='mailto:josuearredondo@advancedcodese.com'>
-    <img src='https://img.shields.io/badge/email-orange?style=for-the-badge&logo=mail.ru&logoColor=white' alt='Email Badge' />
+  <a href="mailto:josuearredondo@advancedcodese.com">
+    <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </div>
 
-### Hi there 👋 I am Josue
-I am a ✨Flutter Developer✨ recently graduated with ✨degrees✨ from <a href="https://www.uaslp.mx">UASLP MX</a>
+---
 
-### 🔭 I’m currently working on
-  - Flutter Development
-  - Web Development
-  - Produc Manager
+### 🚀 What I’m working on
 
-### 🌱 I’m currently learning
-  - Data Science
-  - Computer Vision
+- Cross-platform mobile apps using **Flutter + Firebase**
+- Full-stack web development with **React + Node.js**
+- Coordinating tech projects as a **Product Manager**
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg' alt='TypeScript' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg' alt='Firebase' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='MongoDB' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='React' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='TypeScript' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='Java' width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='Cplusplus' width="40" height="40"/>&nbsp;
+---
+
+### 📚 Currently learning
+
+- **Machine Learning** and **Computer Vision** with Python & OpenCV  
+- Backend best practices and cloud infrastructure (GCP / Firebase)
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
 </div>
 
-<br>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josueleonardo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📂 Featured Projects
+
+- 🔗 [EventsReserve](https://github.com/josueleonardo/eventsreserve) – Booking platform built with Flutter, Firebase & notifications.
+- 🔗 [Dashboard Analytics](https://github.com/josueleonardo/business-dashboard) – Business data visualization tool with PDF export & charts.
+- 🔗 [Health Services App](https://github.com/josueleonardo/healthconnect) – App connecting users with local health professionals.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josueleonardo&show_icons=true&theme=radical&hide=prs" alt="Josue's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueleonardo&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+### 📫 Let's connect
+
+If you want to collaborate, ask questions, or just say hi – feel free to [email me](mailto:josuearredondo@advancedcodese.com) or [connect on LinkedIn](https://www.linkedin.com/in/josue-leonardo-arredondo-juarez/).
+
+---
+
+_“Great products are born from great conversations.”_
